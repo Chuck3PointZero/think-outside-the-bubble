@@ -36,6 +36,9 @@ This can include:
 3. Access data
 4. Steps to build/run project
 
+## System Diagram
+[System Diagram]('think_system_v1.prg')
+
 ## Known Issues and Future Improvements
 
 Explain known liminations within the project and potential next steps. 
