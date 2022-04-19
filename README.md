@@ -37,7 +37,7 @@ This can include:
 4. Steps to build/run project
 
 ## System Diagram
-[System Diagram]('think_system_v1.prg')
+![System Diagram](./think_system_v1.png)
 
 ## Known Issues and Future Improvements
 
