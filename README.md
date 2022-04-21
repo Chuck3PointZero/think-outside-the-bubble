@@ -24,11 +24,17 @@ State any dependencies and their versions needed to be installed to test this pr
 
 ## Installation
 
-This can include:
-1. Clone repository
-2. Install dependencies (pip install TigerGraph)
-3. Review this [Blog](https://medium.com/@sudha.vijayakumar_74093/a-common-sense-word-network-with-tigergraph-573745e4504d)
+> Prerequisites: 
+  Before, getting started install the following,
+  - Python 3 => https://docs.python-guide.org/starting/install3/osx/
+  - Jupyter notebook/ MS Visual Studio Code => https://jupyter.org/install
+  - Create tgcloud solution => https://www.tigergraph.com/blog/taking-your-first-steps-in-learning-tigergraph-cloud/
+    - keep the solution url, username, password handy to plug-in to the backend APIs in RASA at Step-4.
 
+Then:
+1. Clone repository
+2. Review this [Blog](https://medium.com/@sudha.vijayakumar_74093/a-common-sense-word-network-with-tigergraph-573745e4504d)
+3. Install dependencies (pip install TigerGraph)
 
 ## System Diagram
 ![System Diagram](./think_system_v1.png)
