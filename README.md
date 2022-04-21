@@ -29,6 +29,10 @@ Engagement is still similar to real influencers; it will require outstanding des
 2. Review this [Blog](https://medium.com/@sudha.vijayakumar_74093/a-common-sense-word-network-with-tigergraph-573745e4504d)
 3. Install dependencies (pip install TigerGraph)
 
+## Running
+
+ All the real work is done in src/ThinkOTB.ipynb
+
 ## System Diagram
 ![System Diagram](./think_system_v1.png)
 
@@ -43,5 +47,3 @@ It got complicated quickly.  And there were actually too many Metaverses to choo
 ## References
 
 Please Read [Sudha's Blog](https://medium.com/@sudha.vijayakumar_74093/a-common-sense-word-network-with-tigergraph-573745e4504d) without it this would have taken a whole lot longer.
-
-
