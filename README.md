@@ -1,6 +1,7 @@
 # THINK Outside the Bubble!
 
 **Problem Statement addressed (or explain your own): [ ]**
+
 Foster critical thinking through an innovative use of Virtual Humans, as Talk Show hosts; that introduce people to ideas both inside and outside of their filter bubbles, in a fun and entertaining way.
 
 **Description**: 
@@ -11,27 +12,19 @@ Our virtual talk show host will engage multiple audiences in a fun and entertain
 
 Engagement is still similar to real influencers; it will require outstanding design work, distinctive and penetrating characters, and in-depth interaction with fans.   Success is determined by having entertaining and yet educational content; automatically created using tools such as TigerGraph, that can extract relationships from data.
 
-Other additions: 
-
- - **Data**: Give context for the dataset used and give full access to judges if publicly available or metadata otherwise. 
- - **Technology Stack**: Describe technologies and programming languages used. 
- - **Visuals**: Feel free to include other images or videos to better demonstrate your work.
- - Link websites or applications if needed to demonstrate your work. 
 
 ## Dependencies
-
-State any dependencies and their versions needed to be installed to test this project. This may include programming languages, frameworks, libraries, and etc. 
-
-## Installation
 
 > Prerequisites: 
   Before, getting started install the following,
   - Python 3 => https://docs.python-guide.org/starting/install3/osx/
   - Jupyter notebook/ MS Visual Studio Code => https://jupyter.org/install
   - Create tgcloud solution => https://www.tigergraph.com/blog/taking-your-first-steps-in-learning-tigergraph-cloud/
-    - keep the solution url, username, password handy to plug-in to the backend APIs in RASA at Step-4.
+    - keep the solution url, username, password handy to plug-in to the backend APIs.
 
-Then:
+
+## Installation
+
 1. Clone repository
 2. Review this [Blog](https://medium.com/@sudha.vijayakumar_74093/a-common-sense-word-network-with-tigergraph-573745e4504d)
 3. Install dependencies (pip install TigerGraph)
@@ -41,12 +34,14 @@ Then:
 
 ## Known Issues and Future Improvements
 
-Explain known liminations within the project and potential next steps. 
+The POV List still requires human validation and correction. 
 
 ## Reflections
 
-Review the steps you took to create this project and the resources you were provided. Feel free to indiciate room for improvement and general reflections.
+It got complicated quickly.  And there were actually too many Metaverses to choose from.
 
 ## References
 
-Please give credit to other projects, videos, talks, people, and other sources that have inspired and influenced your project. 
+Please Read [Sudha's Blog](https://medium.com/@sudha.vijayakumar_74093/a-common-sense-word-network-with-tigergraph-573745e4504d) without it this would have taken a whole lot longer.
+
+
