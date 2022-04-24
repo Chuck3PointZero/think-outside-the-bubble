@@ -8,7 +8,7 @@ We use a powerful collection of AI to produce this top 10 List for your entertai
 
 We try to find differing points of view for every topic.  If you don't hear your particular stance on this topic - let's pretend it was a software glitch.
 
-Now, without further comical delays, lets look through the top 10 P O Vees for [insert-topic]
+Now, without further comical delays, lets look through the top [insert-count] P O Vees for [insert-topic]
 
 [insert-pov-list]
 
