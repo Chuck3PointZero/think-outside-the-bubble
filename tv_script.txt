@@ -1,6 +1,6 @@
 Hello ladies and gentlemen and welcome to "think outside the bubble!"   I'm your virtual host [insert-show-host].
 
-Today, [insert-date], we will be talking about [topic-of-interest].
+Today, [insert-date], we will be talking about [insert-topic].
 
 Research for our results comes from Twitter, News A P I dot org, and Google Trends.   
 
